@@ -6,7 +6,7 @@
 
 	<groupId>io.lumenlog</groupId>
 	<artifactId>lumenlog</artifactId>
-	<version>0.0.1-alpha</version>
+	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
 	<name>lumen</name>
